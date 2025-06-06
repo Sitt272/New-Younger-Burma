@@ -51,7 +51,7 @@
 .navbar .logo {
   font-size: 22px;
   font-weight: bold;
-  color: #ffffff;
+  color: #ffd700;
 }
 
 .navbar .nav-links {
@@ -61,7 +61,7 @@
 }
 
 .navbar .nav-links li a {
-  color: #ffffff;
+  color: #ffd700;
   text-decoration: none;
   transition: 0.3s ease;
   font-weight: 500;
